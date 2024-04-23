@@ -37,8 +37,8 @@ public class FrogSimulation
 		for(int i=0;i<num;i++){
 			if(simulate()==true){
 				successes++;
-			}return successes/num;
-		}
+			}
+		}return successes/num;
 
 	}
 	
